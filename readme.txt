@@ -11,7 +11,7 @@ http://iss.ndl.go.jp/books/R100000002-I026370537-00
 
 上記のテキストファイル記入後
 
-コマンドプロンプトに同ファイルのkokkaiフォルダに移動し
+コマンドプロンプトに同ファイルのkokkaiフォルダに移動(scrapy.cfgファイルが存在する階層)し
 scrapy crawl kokkai -o ファイル名.拡張子
 
 を実行
